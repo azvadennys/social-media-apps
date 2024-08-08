@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ceria Chat</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="sudah_punya_akun_login">Sudah punya akun? Login</string>
+</resources>

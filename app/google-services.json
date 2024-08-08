@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "683550211174",
+    "firebase_url": "https://medsos-fd1db-default-rtdb.firebaseio.com",
+    "project_id": "medsos-fd1db",
+    "storage_bucket": "medsos-fd1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683550211174:android:ee1eb1e0384288a8ab01a7",
+        "android_client_info": {
+          "package_name": "com.example.sosmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy171NkK_O_ZrHK-0xYZdeZD430rSVxYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<!-- res/drawable/bg_message_receiver.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#EAEAEA"/> <!-- Light gray color for receiver messages -->
+    <corners android:radius="16dp"/>
+    <padding android:left="12dp" android:top="8dp" android:right="12dp" android:bottom="8dp"/>
+</shape>
